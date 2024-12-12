@@ -85,12 +85,14 @@ Thrive together in VSAG community with users and developers from all around the 
 
 ## Reference
 Reference to cite when you use VSAG in a research paper:
+```
 @article{yang2024bridging,
   title={Bridging Speed and Accuracy to Approximate $ K $-Nearest Neighbor Search},
   author={Yang, Mingyu and Jin, Jiabao and Wang, Xiangyu and Shen, Zhitao and Jia, Wei and Li, Wentao and Wang, Wei},
   journal={arXiv preprint arXiv:2404.16322},
   year={2024}
 }
+```
 
 ## Star History
 
